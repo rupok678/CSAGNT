@@ -3,6 +3,9 @@
 
 /* // Small devices (landscape phones, 320px and up) */
 @media (min-width: 320px) and (max-width: 575px) {
+    h2{
+        font-size: 33px !important;
+    }
     .navbar {
         position: relative;
     }
@@ -68,7 +71,7 @@
     }
 
     .banner_items p {
-        padding-bottom: 12px !important;
+        padding-bottom: 24px !important;
         padding-right: 2px !important;
         font-size: 14PX !important;
     }
