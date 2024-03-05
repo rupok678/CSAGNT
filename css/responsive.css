@@ -13,7 +13,7 @@
 
     .navbar .navbar-toggler {
         border: none;
-        font-size: 20px;
+        font-size: 24px;
         color: #ab6db0;
     }
 
@@ -40,7 +40,7 @@
     }
 
     .btn_com h5 {
-        font-size: 12px !important;
+        font-size: 16px !important;
     }
 
     header .btn_com {
@@ -49,7 +49,7 @@
     }
 
     .nav-link {
-        font-size: 15px !important;
+        font-size: 16px !important;
     }
 
     .banner_part {
@@ -61,7 +61,7 @@
     }
 
     h1 {
-        font-size: 24px !important;
+        font-size: 26px !important;
     }
 
     .navbar-toggler:hover .banner_part {
@@ -71,11 +71,11 @@
     .banner_items p {
         padding-bottom: 12px !important;
         padding-right: 2px !important;
-        font-size: 12PX !important;
+        font-size: 14PX !important;
     }
 
     h4 {
-        font-size: 18px !important;
+        font-size: 20px !important;
     }
 
     .pt_30 {
@@ -85,11 +85,6 @@
     .pb_60 {
         padding-bottom: 33px !important;
     }
-
-    h2 {
-        font-size: 21px !important;
-    }
-
     .working_number {
         height: 46px !important;
         width: 46px !important;
@@ -99,17 +94,10 @@
         line-height: 46px !important;
     }
 
-    .working_content p {
-        font-size: 13px !important;
-    }
-
     .about_part {
         border-radius: 30px 0 30px 0 !important;
     }
 
-    .about_img_text h4 {
-        font-size: 12px !important;
-    }
 
     .about_img_text {
         padding: 12px 0 !important;
@@ -119,10 +107,6 @@
 
     .about_content h2 {
         padding: 7px 0 6px !important;
-    }
-
-    .about_content p {
-        font-size: 12px !important;
     }
 
     .about_part {
@@ -145,12 +129,6 @@
     }
     .services_img1 {
         margin-top: 21px !important;
-    }
-    .services_content a i {
-        font-size: 20px !important;
-    }
-    .services_content p{
-        font-size: 12px;
     }
 
     .portfolio_part {
@@ -175,7 +153,6 @@
     }
 
     .team_part .nav_left {
-        font-size: 12px !important;
         left: 1% !important;
         height: 30px !important;
         width: 30px !important;
@@ -183,7 +160,6 @@
     }
 
     .team_part .nav_right {
-        font-size: 12px !important;
         right: 1% !important;
         height: 30px !important;
         width: 30px !important;
@@ -197,12 +173,10 @@
     }
 
     .expart_member_content h5 {
-        font-size: 13px !important;
         padding-top: 5px !important;
     }
 
     .expart_member_content p {
-        font-size: 10px !important;
         padding: 0 !important;
     }
 
@@ -305,7 +279,7 @@
         line-height: 32px !important;
     }
     .footer_icon li a i{
-        font-size: 16px !important;
+        font-size: 20px !important;
     }
     .copyright{
         padding: 10px 0 !important;
