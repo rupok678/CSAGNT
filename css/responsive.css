@@ -55,10 +55,12 @@
     .banner_part {
         padding: 99px 0 4px !important;
     }
+    h1{
+        font-size: 44px !important;
+    }
 
     .banner_items h1 {
         padding-bottom: 8px !important;
-        font-size: 44px !important;
     }
 
     .navbar-toggler:hover .banner_part {
